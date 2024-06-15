@@ -1,2 +1,3 @@
 # Blood-Management-System
-BLOOD MANAGEMENT SYSTEM 
+Frontend in JAVA SWing
+Backend in MongoDB
