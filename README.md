@@ -1,3 +1,3 @@
 # Blood-Management-System
-Frontend in JAVA SWing
+Frontend in JAVA Swing
 Backend in MongoDB
